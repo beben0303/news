@@ -1,7 +1,7 @@
 * {
   padding: 0px;
   margin: 0px;
-  font-family: Inter;
+  font-family: "Roboto", sans-serif;
   color: #FFF;
 }
 
@@ -19,7 +19,6 @@
 
 .logo {
   font-size: 24px;
-  font-family: Inter;
   font-weight: 700;
   letter-spacing: 2.4px;
 }
